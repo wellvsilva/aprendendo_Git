@@ -1,1 +1,2 @@
 Estou aprendendo a trabalhar com git e github.
+"O conhecimento é tudo".
